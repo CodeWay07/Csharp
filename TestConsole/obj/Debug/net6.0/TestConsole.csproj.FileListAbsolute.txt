@@ -1,0 +1,15 @@
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/TestConsole
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/TestConsole.deps.json
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/TestConsole.runtimeconfig.json
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/TestConsole.dll
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/TestConsole.pdb
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.csproj.AssemblyReference.cache
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.AssemblyInfoInputs.cache
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.AssemblyInfo.cs
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.csproj.CoreCompileInputs.cache
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.dll
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/refint/TestConsole.dll
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.pdb
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.genruntimeconfig.cache
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/ref/TestConsole.dll
