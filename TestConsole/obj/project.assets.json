@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Calclib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Calclib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calclib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Calclib/1.0.0": {
+      "type": "project",
+      "path": "../Calclib/Calclib.csproj",
+      "msbuildProject": "../Calclib/Calclib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Calclib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mbugaescu/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mbugaescu/Csharp/Calclib/Calclib.csproj": {
+              "projectPath": "/Users/mbugaescu/Csharp/Calclib/Calclib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -13,3 +13,6 @@
 /Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.pdb
 /Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.genruntimeconfig.cache
 /Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/ref/TestConsole.dll
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/Calclib.dll
+/Users/mbugaescu/Csharp/TestConsole/bin/Debug/net6.0/Calclib.pdb
+/Users/mbugaescu/Csharp/TestConsole/obj/Debug/net6.0/TestConsole.csproj.CopyComplete

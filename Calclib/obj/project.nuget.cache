@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxr8n8hoitfSpt85SpRfVQv4WgMBwz/xljzt2OahPgF7RVoGJwFh68XGZrLz25upSU25/bWO+d8e6NNqidMCkg==",
+  "success": true,
+  "projectFilePath": "/Users/mbugaescu/Csharp/Calclib/Calclib.csproj",
+  "expectedPackageFiles": [
+    "/Users/mbugaescu/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

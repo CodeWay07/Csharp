@@ -1,6 +1,7 @@
 ﻿using System;
+using Csharp.Calclib;
 
-namespace TestConsole
+namespace Csharp.TestConsole
 {
     class Program
     {         
@@ -8,8 +9,7 @@ namespace TestConsole
         {
             int x = 6;
             int y = ++x;
-            Console.WriteLine("y = " + y);
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("x + y = {0}", Calc.Sum(x, y));
         }
     }
 }

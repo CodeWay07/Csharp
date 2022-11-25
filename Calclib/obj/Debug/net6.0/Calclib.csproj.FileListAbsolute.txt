@@ -1,0 +1,12 @@
+/Users/mbugaescu/Csharp/Calclib/bin/Debug/net6.0/Calclib.deps.json
+/Users/mbugaescu/Csharp/Calclib/bin/Debug/net6.0/Calclib.dll
+/Users/mbugaescu/Csharp/Calclib/bin/Debug/net6.0/Calclib.pdb
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.csproj.AssemblyReference.cache
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.AssemblyInfoInputs.cache
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.AssemblyInfo.cs
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.csproj.CoreCompileInputs.cache
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.dll
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/refint/Calclib.dll
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/Calclib.pdb
+/Users/mbugaescu/Csharp/Calclib/obj/Debug/net6.0/ref/Calclib.dll
