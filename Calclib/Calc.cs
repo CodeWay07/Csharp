@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json;
 
 namespace Csharp.Calclib
 {
@@ -8,8 +9,17 @@ namespace Csharp.Calclib
         {
             return a + b;
         }
+
+        public static string ToJson(int a, int b)
+        {
+            var t = new {x = a, y = b};
+            return JsonConvert.SerializeObject(t);
+        }
+
     }
 }
+
+
 
 
 
